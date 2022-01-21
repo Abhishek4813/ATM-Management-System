@@ -1,7 +1,7 @@
 # ATM-Management-System
 Spring boot backend System for ATM Services
 
-## Technologys
+## Technologies
 SpringBoot,   Spring Data JPA ,  JWT,   H2 Database
 
 Application Port: 8081
